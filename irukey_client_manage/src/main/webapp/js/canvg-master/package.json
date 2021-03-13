@@ -57,7 +57,7 @@
   "peerDependencies": {
     "canvas": "^2.1.0",
     "jsdom": "^13.0.0",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.5.0"
   },
   "devDependencies": {
     "ava": "^1.0.0-rc.2",
@@ -81,7 +81,7 @@
     "serve-handler": "^5.0.7",
     "tap-diff": "^0.1.1",
     "uglify-js": "^3.4.9",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.5.0"
   },
   "jspm": {
     "registry": "npm"
